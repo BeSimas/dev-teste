@@ -1,8 +1,5 @@
 function Home () {
-    return <h1>pagina 
-        inicial 
-        do 
-        site</h1>
+    return <h1>vai dormir eduardo</h1>
 
 
 }
